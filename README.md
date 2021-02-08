@@ -9,6 +9,7 @@ __Hello, GitHub!!__
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashPermz" />
 </a>
+<br />
 
 ## ↓学習中スキル↓
 <a href="https://www.ruby-lang.org/ja/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"></a>
