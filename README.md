@@ -2,10 +2,13 @@
 
 __Hello, GitHub!!__
 
-## 私とは
-- 24才
-- 男
-- メガネ🤓
+## GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mashPermz&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashPermz" />
+</a>
 
 ## ↓学習中スキル↓
 <a href="https://www.ruby-lang.org/ja/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"></a>
